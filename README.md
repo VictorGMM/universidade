@@ -1,2 +1,2 @@
 # University
-works
+works in c
